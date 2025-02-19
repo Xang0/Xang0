@@ -8,7 +8,6 @@ Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará projetos, contribui
 - **Localização:** Lavras/MG - Brasil
 - **Faculdade:** Universidade Federal de Lavras - UFLA
 - **Curso:** Graduando em Sistemas de Informação
-- **Área de Atuação:** Ciência de Dados, Engenharia de Dados, Mobile
 - **Interesses:** Tecnologia, Programação, Música, Jogos, Animes, Mangas e Livros
 - **Hobbies:** Leitura, Jogos e Música
 
