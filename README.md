@@ -1,16 +1,41 @@
-## Hi there 👋
+# Olá, eu sou Alexandre Carvalhaes! 👋
 
-<!--
-**Xang0/Xang0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará projetos, contribuições e um pouco sobre mim. Sinta-se à vontade para explorar e entrar em contato!
 
-Here are some ideas to get you started:
+## Sobre mim 🧑‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Nome:** Alexandre Moraes Pereira Carvalhaes Filho
+- **Localização:** Lavras/MG - Brasil
+- **Área de Atuação:** Ciência de Dados, Engenharia de Dados, Mobile
+- **Interesses:** Tecnologia, Programação, Música, Jogos, Animes, Mangas e Livros
+- **Hobbies:** Leitura, Jogos e Música
+
+## Habilidades Técnicas 🛠️
+
+- **Linguagens de Programação:** Python, SQL, HTML, CSS, JavaScript
+- **Frameworks e Bibliotecas:** Pandas, NumPy, ScikitLearn, Node.js
+- **Ferramentas e Tecnologias:** Git e GitHub, PowerBi
+- **Banco de Dados:** MySQL, SQLite
+
+## Estudando Atualmente 📖
+
+- **Linguagens de Programação:** Dart, Rust, Kotlin, Java
+- **Frameworks e Bibliotecas:** Flutter, Rocket
+- **Ferramentas e Tecnologias:** AWS
+
+## Estatísticas do GitHub 📊
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Xang0&show_icons=true&theme=radical)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Xang0&layout=compact&theme=radical)
+
+## Como Entrar em Contato 📫
+
+- **LinkedIn:** [Alexandre Filho](www.linkedin.com/in/alexandre-filho-128127260)
+- **E-mail:** carvalhaesfilho0@gmail.com
+
+## Contribuições e Colaborações 🤝
+
+Estou sempre aberto(a) a colaborações e novos projetos. Se você tem uma ideia ou quer trabalhar juntos, sinta-se à vontade para entrar em contato!
+
+---
