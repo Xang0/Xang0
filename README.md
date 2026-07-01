@@ -26,7 +26,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará projetos, contribui
 
 ## Estatísticas do GitHub 📊
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Xang0&show_icons=true&theme=dark&_=123456)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Xang0&show_icons=true&theme=dark&cache_seconds=86400)
 
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs?username=Xang0&show_icons=true&theme=dark&_=123456)
 
