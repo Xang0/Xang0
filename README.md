@@ -26,9 +26,9 @@ Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará projetos, contribui
 
 ## Estatísticas do GitHub 📊
 
-![Estatísticas do GitHub](https://github-readme-stats-xang09691-93it6ff3.leapcell.dev/api?username=Xang0&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Xang0&show_icons=true&theme=dark)
 
-![Linguagens Mais Usadas](https://github-readme-stats-xang09691-93it6ff3.leapcell.dev/api/top-langs?username=Xang0&show_icons=true&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs?username=Xang0&show_icons=true&theme=dark)
 
 ## Como Entrar em Contato 📫
 
