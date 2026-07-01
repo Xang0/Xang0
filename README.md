@@ -28,7 +28,7 @@ Bem-vindo(a) ao meu perfil do GitHub! Aqui você encontrará projetos, contribui
 
 [![Xango's GitHub stats](https://github-stats-extended.vercel.app/api?username=Xang0&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs?username=Xang0&show_icons=true&theme=dark&_=123456)
+[![Linguagens Mais Usadas](https://github-stats-extended.vercel.app/api/top-langs?username=Xang0&show_icons=true&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 ## Como Entrar em Contato 📫
 
